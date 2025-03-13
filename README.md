@@ -1,2 +1,2 @@
-# ProfesorTrujillo-Preexamen-5-C
-Preexamen-Rosa Elena Martinez Romo
+# ProfesorTrujillo-examen-5-C
+examen-Rosa Elena Martinez Romo
